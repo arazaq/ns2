@@ -1,0 +1,4128 @@
+
+--- snapshot (0) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <33.9 487.8>
+
+--- snapshot (1) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <135.4 487.8>
+
+--- snapshot (2) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <135.4 487.8>
+
+--- snapshot (3) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <33.9 487.8>
+
+--- snapshot (4) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <33.9 487.8>
+
+--- snapshot (5) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <251.5 487.8>
+
+--- snapshot (6) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 267.1>
+packet at <350.0 421.9>
+packet at <358.5 267.1>
+packet at <410.5 421.9>
+packet at <419.0 267.1>
+packet at <471.0 421.9>
+packet at <479.4 267.1>
+
+--- snapshot (7) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 267.1>
+packet at <350.0 421.9>
+packet at <358.5 267.1>
+packet at <410.5 421.9>
+packet at <419.0 267.1>
+packet at <471.0 421.9>
+packet at <479.4 267.1>
+
+--- snapshot (8) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <289.6 420.9>
+packet at <298.1 268.2>
+packet at <350.0 420.9>
+packet at <358.5 268.2>
+packet at <410.5 420.9>
+packet at <419.0 268.2>
+packet at <471.0 420.9>
+
+--- snapshot (9) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <289.6 420.9>
+packet at <298.1 268.2>
+packet at <350.0 420.9>
+packet at <358.5 268.2>
+packet at <410.5 420.9>
+packet at <419.0 268.2>
+packet at <471.0 420.9>
+
+--- snapshot (10) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <79.7 479.3>
+
+--- snapshot (11) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <191.2 487.8>
+packet at <210.5 487.8>
+
+--- snapshot (12) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 327.5>
+packet at <350.0 361.6>
+packet at <358.5 327.5>
+packet at <410.5 361.6>
+packet at <419.0 327.5>
+packet at <471.0 361.6>
+packet at <479.4 327.5>
+packet at <298.1 308.1>
+packet at <350.0 380.9>
+packet at <358.5 308.1>
+packet at <410.5 380.9>
+packet at <419.0 308.1>
+packet at <471.0 380.9>
+packet at <479.4 308.1>
+
+--- snapshot (13) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 328.0>
+packet at <350.0 361.1>
+packet at <358.5 328.0>
+packet at <410.5 361.1>
+packet at <419.0 328.0>
+packet at <471.0 361.1>
+packet at <479.4 328.0>
+packet at <298.1 308.1>
+packet at <350.0 380.9>
+packet at <358.5 308.1>
+packet at <410.5 380.9>
+packet at <419.0 308.1>
+packet at <471.0 380.9>
+packet at <479.4 308.1>
+
+--- snapshot (14) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <140.5 479.3>
+packet at <120.7 479.3>
+
+--- snapshot (15) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 344.5>
+packet at <350.0 344.5>
+packet at <358.5 344.5>
+packet at <410.5 344.5>
+packet at <419.0 344.5>
+packet at <471.0 344.5>
+packet at <479.4 344.5>
+packet at <298.1 408.7>
+packet at <298.1 388.8>
+packet at <298.1 369.0>
+
+--- snapshot (16) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <221.2 479.3>
+packet at <201.4 479.3>
+packet at <181.5 479.3>
+packet at <161.7 479.3>
+
+--- snapshot (17) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <33.9 487.8>
+packet at <51.1 487.8>
+packet at <70.5 487.8>
+packet at <89.8 487.8>
+packet at <109.2 487.8>
+packet at <128.5 487.8>
+
+--- snapshot (18) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 465.4>
+packet at <298.1 448.2>
+packet at <298.1 428.8>
+packet at <298.1 409.5>
+packet at <298.1 390.1>
+packet at <234.9 487.8>
+packet at <254.3 487.8>
+packet at <273.6 487.8>
+
+--- snapshot (19) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <298.1 465.4>
+packet at <298.1 464.7>
+packet at <298.1 444.8>
+packet at <298.1 425.0>
+packet at <298.1 405.1>
+packet at <298.1 278.9>
+packet at <350.0 410.2>
+packet at <358.5 278.9>
+packet at <410.5 410.2>
+packet at <419.0 278.9>
+packet at <471.0 410.2>
+packet at <479.4 278.9>
+packet at <298.1 385.3>
+packet at <298.1 259.5>
+packet at <350.0 429.5>
+packet at <358.5 259.5>
+packet at <410.5 429.5>
+packet at <419.0 259.5>
+packet at <471.0 429.5>
+packet at <479.4 259.5>
+packet at <298.1 240.2>
+packet at <350.0 448.9>
+packet at <358.5 240.2>
+packet at <410.5 448.9>
+packet at <419.0 240.2>
+packet at <471.0 448.9>
+packet at <479.4 240.2>
+
+--- snapshot (20) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <471.0 223.6>
+packet at <471.0 243.2>
+packet at <471.0 263.0>
+packet at <471.0 282.9>
+packet at <471.0 302.7>
+packet at <298.1 282.4>
+packet at <350.0 406.6>
+packet at <358.5 282.4>
+packet at <410.5 406.6>
+packet at <419.0 282.4>
+packet at <471.0 406.6>
+packet at <479.4 282.4>
+packet at <298.1 262.6>
+packet at <350.0 426.5>
+packet at <358.5 262.6>
+packet at <410.5 426.5>
+packet at <419.0 262.6>
+packet at <471.0 426.5>
+packet at <479.4 262.6>
+packet at <298.1 242.7>
+packet at <350.0 446.3>
+packet at <358.5 242.7>
+packet at <410.5 446.3>
+packet at <419.0 242.7>
+packet at <471.0 446.3>
+packet at <479.4 242.7>
+
+--- snapshot (21) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <471.0 223.6>
+packet at <471.0 243.2>
+packet at <471.0 263.0>
+packet at <471.0 282.9>
+packet at <289.6 405.6>
+packet at <298.1 283.5>
+packet at <350.0 405.6>
+packet at <358.5 283.5>
+packet at <410.5 405.6>
+packet at <419.0 283.5>
+packet at <471.0 405.6>
+packet at <471.0 302.7>
+packet at <289.6 425.4>
+packet at <298.1 263.6>
+packet at <350.0 425.4>
+packet at <358.5 263.6>
+packet at <410.5 425.4>
+packet at <419.0 263.6>
+packet at <471.0 425.4>
+packet at <289.6 445.3>
+packet at <298.1 243.8>
+packet at <350.0 445.3>
+packet at <358.5 243.8>
+packet at <410.5 445.3>
+packet at <419.0 243.8>
+packet at <471.0 445.3>
+packet at <289.6 465.1>
+packet at <298.1 223.9>
+packet at <350.0 465.1>
+packet at <358.5 223.9>
+packet at <410.5 465.1>
+packet at <419.0 223.9>
+packet at <471.0 465.1>
+
+--- snapshot (22) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <257.4 479.3>
+packet at <237.5 479.3>
+packet at <217.7 479.3>
+packet at <289.6 405.6>
+packet at <298.1 283.5>
+packet at <350.0 405.6>
+packet at <358.5 283.5>
+packet at <410.5 405.6>
+packet at <419.0 283.5>
+packet at <471.0 405.6>
+packet at <197.8 479.3>
+packet at <289.6 425.4>
+packet at <298.1 263.6>
+packet at <350.0 425.4>
+packet at <358.5 263.6>
+packet at <410.5 425.4>
+packet at <419.0 263.6>
+packet at <471.0 425.4>
+packet at <289.6 445.3>
+packet at <298.1 243.8>
+packet at <350.0 445.3>
+packet at <358.5 243.8>
+packet at <410.5 445.3>
+packet at <419.0 243.8>
+packet at <471.0 445.3>
+packet at <289.6 465.1>
+packet at <298.1 223.9>
+packet at <350.0 465.1>
+packet at <358.5 223.9>
+packet at <410.5 465.1>
+packet at <419.0 223.9>
+packet at <471.0 465.1>
+
+--- snapshot (23) ---
+half line from <475.2 344.5> to <475.2 223.6>
+half line from <475.2 223.6> to <475.2 344.5>
+half line from <475.2 344.5> to <475.2 465.4>
+half line from <475.2 465.4> to <475.2 344.5>
+half line from <414.7 344.5> to <414.7 223.6>
+half line from <414.7 223.6> to <414.7 344.5>
+half line from <414.7 344.5> to <414.7 465.4>
+half line from <414.7 465.4> to <414.7 344.5>
+half line from <354.3 344.5> to <354.3 223.6>
+half line from <354.3 223.6> to <354.3 344.5>
+half line from <354.3 344.5> to <354.3 465.4>
+half line from <354.3 465.4> to <354.3 344.5>
+half line from <293.8 344.5> to <293.8 223.6>
+half line from <293.8 223.6> to <293.8 344.5>
+half line from <293.8 344.5> to <293.8 465.4>
+half line from <293.8 465.4> to <293.8 344.5>
+half line from <511.5 344.5> to <342.2 344.5>
+half line from <33.9 483.6> to <275.7 483.6>
+half line from <275.7 483.6> to <33.9 483.6>
+circle node at <354.3 205.5> with <radius 12.1>
+with label (3) at center <354.3 205.5>
+circle node at <475.2 205.5> with <radius 12.1>
+with label (7) at center <475.2 205.5>
+circle node at <354.3 483.6> with <radius 12.1>
+with label (2) at center <354.3 483.6>
+circle node at <475.2 483.6> with <radius 12.1>
+with label (6) at center <475.2 483.6>
+circle node at <293.8 205.5> with <radius 12.1>
+with label (1) at center <293.8 205.5>
+circle node at <414.7 205.5> with <radius 12.1>
+with label (5) at center <414.7 205.5>
+circle node at <15.7 483.6> with <radius 12.1>
+with label (9) at center <15.7 483.6>
+circle node at <293.8 483.6> with <radius 12.1>
+with label (0) at center <293.8 483.6>
+circle node at <414.7 483.6> with <radius 12.1>
+with label (4) at center <414.7 483.6>
+packet at <33.9 487.8>
+packet at <34.3 487.8>
+packet at <53.7 487.8>
+packet at <73.0 487.8>
+packet at <92.4 487.8>
+packet at <95.0 479.3>
+packet at <75.1 479.3>
+packet at <55.3 479.3>
+packet at <35.4 479.3>
+
+--- snapshot (0) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <248.2 338.2>
+packet at <40.6 338.2>
+
+--- snapshot (1) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <152.5 355.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+packet at <349.4 355.2>
+
+--- snapshot (2) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <322.8 325.5>
+packet at <372.7 325.5>
+packet at <459.2 325.5>
+packet at <422.7 325.5>
+packet at <472.7 325.5>
+packet at <227.9 390.9>
+packet at <157.4 368.7>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (3) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <102.7 368.7>
+packet at <360.8 351.6>
+packet at <354.7 345.6>
+packet at <334.2 345.6>
+packet at <342.3 329.2>
+packet at <301.7 351.6>
+packet at <152.5 355.2>
+packet at <102.7 381.2>
+packet at <103.6 368.7>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+packet at <134.4 368.7>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (4) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <40.6 338.2>
+packet at <248.2 338.2>
+packet at <384.8 355.2>
+packet at <310.3 400.4>
+packet at <310.3 390.8>
+packet at <310.3 368.7>
+packet at <322.8 319.6>
+packet at <372.7 319.6>
+packet at <459.2 331.3>
+packet at <422.7 319.6>
+packet at <472.7 319.6>
+packet at <102.7 381.2>
+packet at <233.3 396.4>
+packet at <102.7 368.7>
+packet at <310.3 381.2>
+packet at <317.6 368.7>
+packet at <152.4 355.2>
+packet at <338.1 368.7>
+packet at <121.6 355.2>
+packet at <165.1 368.7>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+packet at <375.2 201.7>
+packet at <340.3 207.7>
+packet at <319.8 207.7>
+packet at <356.7 191.3>
+packet at <316.1 201.7>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (5) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <310.3 400.4>
+packet at <310.3 390.8>
+packet at <224.0 387.1>
+packet at <263.6 334.6>
+packet at <310.3 368.7>
+packet at <102.7 368.7>
+packet at <368.5 355.2>
+packet at <317.6 368.7>
+packet at <152.3 355.2>
+packet at <102.7 429.2>
+packet at <102.7 419.6>
+packet at <348.0 355.2>
+packet at <119.1 368.7>
+packet at <338.1 368.7>
+packet at <121.6 355.2>
+packet at <102.7 410.0>
+packet at <310.3 381.2>
+packet at <327.5 355.2>
+packet at <102.7 400.4>
+packet at <358.6 368.7>
+packet at <149.8 368.7>
+packet at <379.1 368.7>
+packet at <102.7 390.8>
+packet at <102.7 381.2>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (6) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <248.2 338.2>
+packet at <40.6 338.2>
+packet at <102.7 368.7>
+packet at <102.7 446.3>
+packet at <409.2 327.0>
+packet at <322.8 323.9>
+packet at <372.7 323.9>
+packet at <459.2 327.0>
+packet at <422.7 323.9>
+packet at <310.3 368.7>
+packet at <248.8 338.8>
+packet at <250.9 341.0>
+packet at <422.7 328.9>
+packet at <310.3 437.8>
+packet at <47.3 344.9>
+packet at <167.7 355.2>
+packet at <373.6 355.2>
+packet at <233.4 396.5>
+packet at <312.5 368.7>
+packet at <295.9 424.0>
+packet at <103.7 368.7>
+packet at <102.7 416.6>
+packet at <353.1 355.2>
+packet at <333.0 368.7>
+packet at <136.9 355.2>
+packet at <295.9 404.2>
+packet at <310.3 429.2>
+packet at <332.6 355.2>
+packet at <134.4 368.7>
+packet at <102.7 429.2>
+packet at <353.4 368.7>
+packet at <310.3 419.6>
+packet at <310.3 410.0>
+packet at <106.2 355.2>
+packet at <312.1 355.2>
+packet at <373.9 368.7>
+packet at <102.7 419.6>
+packet at <310.3 400.4>
+packet at <165.2 368.7>
+packet at <102.7 410.0>
+packet at <310.3 390.8>
+packet at <310.3 381.2>
+packet at <102.7 400.4>
+packet at <102.7 390.8>
+packet at <102.7 381.2>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (7) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <102.7 453.7>
+packet at <295.9 451.2>
+packet at <41.9 339.4>
+packet at <175.4 355.2>
+packet at <381.3 355.2>
+packet at <228.0 391.0>
+packet at <310.3 368.7>
+packet at <295.9 431.4>
+packet at <102.7 368.7>
+packet at <102.7 415.0>
+packet at <360.8 355.2>
+packet at <325.3 368.7>
+packet at <144.6 355.2>
+packet at <310.3 405.6>
+packet at <310.3 429.2>
+packet at <340.3 355.2>
+packet at <126.7 368.7>
+packet at <88.3 392.1>
+packet at <102.7 429.2>
+packet at <345.8 368.7>
+packet at <310.3 385.9>
+packet at <310.3 419.6>
+packet at <113.9 355.2>
+packet at <319.8 355.2>
+packet at <366.3 368.7>
+packet at <310.3 366.1>
+packet at <157.5 368.7>
+packet at <88.3 363.2>
+packet at <102.7 419.6>
+packet at <310.3 410.0>
+packet at <295.9 352.3>
+packet at <310.3 400.4>
+packet at <102.7 335.0>
+packet at <295.9 332.5>
+packet at <310.3 390.8>
+packet at <102.7 410.0>
+packet at <295.9 312.7>
+packet at <102.7 305.4>
+packet at <310.3 381.2>
+packet at <295.9 296.7>
+packet at <102.7 285.2>
+packet at <102.7 400.4>
+packet at <295.9 292.9>
+packet at <102.7 275.7>
+packet at <310.3 267.2>
+packet at <102.7 390.8>
+packet at <295.9 253.4>
+packet at <102.7 246.0>
+packet at <295.9 233.6>
+packet at <102.7 381.2>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (8) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <102.7 453.7>
+packet at <265.4 336.4>
+packet at <322.8 325.5>
+packet at <372.7 325.5>
+packet at <459.2 325.5>
+packet at <422.7 325.5>
+packet at <472.7 325.5>
+packet at <310.3 368.7>
+packet at <41.9 339.4>
+packet at <175.4 355.2>
+packet at <228.0 391.0>
+packet at <371.0 355.2>
+packet at <102.7 368.7>
+packet at <88.3 430.0>
+packet at <315.0 368.7>
+packet at <144.6 355.2>
+packet at <350.5 355.2>
+packet at <335.5 368.7>
+packet at <102.7 391.9>
+packet at <310.3 398.7>
+packet at <295.9 401.7>
+packet at <126.7 368.7>
+packet at <102.7 386.1>
+packet at <102.7 429.2>
+packet at <310.3 429.2>
+packet at <330.0 355.2>
+packet at <356.0 368.7>
+packet at <113.9 355.2>
+packet at <310.3 376.0>
+packet at <310.3 419.6>
+packet at <157.5 368.7>
+packet at <102.7 364.7>
+packet at <376.5 368.7>
+packet at <310.3 356.2>
+packet at <310.3 410.0>
+packet at <102.7 419.6>
+packet at <295.9 342.4>
+packet at <102.7 335.0>
+packet at <310.3 400.4>
+packet at <295.9 322.6>
+packet at <310.3 390.8>
+packet at <102.7 410.0>
+packet at <88.3 311.3>
+packet at <295.9 302.8>
+packet at <310.3 381.2>
+packet at <102.7 400.4>
+packet at <310.3 277.1>
+packet at <88.3 276.5>
+packet at <102.7 390.8>
+packet at <310.3 257.3>
+packet at <102.7 241.6>
+packet at <102.7 381.2>
+packet at <310.3 237.5>
+packet at <295.9 223.7>
+packet at <102.7 212.7>
+packet at <295.9 203.9>
+packet at <88.3 192.6>
+packet at <310.3 178.2>
+packet at <310.3 158.4>
+packet at <88.3 160.9>
+packet at <295.9 144.6>
+packet at <102.7 126.0>
+packet at <295.9 124.8>
+packet at <295.9 105.0>
+packet at <102.7 97.1>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (9) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <224.0 387.1>
+packet at <310.3 368.7>
+packet at <235.1 379.2>
+packet at <102.7 390.8>
+packet at <102.7 368.7>
+packet at <102.7 381.2>
+packet at <152.3 355.2>
+packet at <318.5 368.7>
+packet at <310.3 381.2>
+packet at <119.1 368.7>
+packet at <339.0 368.7>
+packet at <121.6 355.2>
+packet at <359.5 368.7>
+packet at <149.8 368.7>
+packet at <380.0 368.7>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (10) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <310.3 400.4>
+packet at <248.2 338.2>
+packet at <310.3 390.8>
+packet at <41.9 339.4>
+packet at <175.4 355.2>
+packet at <310.3 381.2>
+packet at <310.3 368.7>
+packet at <44.0 341.6>
+packet at <228.0 391.0>
+packet at <102.7 419.6>
+packet at <102.7 368.7>
+packet at <102.7 410.0>
+packet at <316.4 368.7>
+packet at <144.6 355.2>
+packet at <336.9 368.7>
+packet at <339.3 355.2>
+packet at <102.7 400.4>
+packet at <126.7 368.7>
+packet at <102.7 390.8>
+packet at <113.9 355.2>
+packet at <318.8 355.2>
+packet at <102.7 381.2>
+packet at <157.5 368.7>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (11) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <459.2 318.2>
+packet at <102.7 368.7>
+packet at <88.3 452.3>
+packet at <382.4 355.2>
+packet at <259.0 330.0>
+packet at <47.3 344.9>
+packet at <167.7 355.2>
+packet at <310.3 368.7>
+packet at <233.4 396.5>
+packet at <361.9 355.2>
+packet at <103.7 368.7>
+packet at <88.3 422.6>
+packet at <324.1 368.7>
+packet at <136.9 355.2>
+packet at <341.4 355.2>
+packet at <344.6 368.7>
+packet at <134.4 368.7>
+packet at <88.3 392.9>
+packet at <320.9 355.2>
+packet at <106.2 355.2>
+packet at <365.1 368.7>
+packet at <102.7 363.2>
+packet at <102.7 429.2>
+packet at <165.2 368.7>
+packet at <102.7 419.6>
+packet at <385.6 368.7>
+packet at <102.7 410.0>
+packet at <102.7 400.4>
+packet at <102.7 390.8>
+packet at <102.7 381.2>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (12) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <102.7 368.7>
+packet at <88.3 452.3>
+packet at <322.8 325.5>
+packet at <372.7 325.5>
+packet at <459.2 325.5>
+packet at <422.7 325.5>
+packet at <472.7 325.5>
+packet at <310.3 400.4>
+packet at <310.3 368.7>
+packet at <167.7 355.2>
+packet at <371.7 355.2>
+packet at <310.3 390.8>
+packet at <314.3 368.7>
+packet at <103.7 368.7>
+packet at <102.7 416.6>
+packet at <351.2 355.2>
+packet at <136.9 355.2>
+packet at <334.8 368.7>
+packet at <310.3 381.2>
+packet at <134.4 368.7>
+packet at <88.3 384.9>
+packet at <102.7 429.2>
+packet at <355.3 368.7>
+packet at <320.9 355.2>
+packet at <375.8 368.7>
+packet at <165.2 368.7>
+packet at <102.7 350.0>
+packet at <102.7 419.6>
+packet at <88.3 327.1>
+packet at <102.7 410.0>
+packet at <102.7 297.9>
+packet at <102.7 400.4>
+packet at <88.3 274.2>
+packet at <102.7 390.8>
+packet at <102.7 238.6>
+packet at <102.7 381.2>
+packet at <102.7 208.9>
+packet at <88.3 191.2>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (13) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <248.2 338.2>
+packet at <224.0 387.1>
+packet at <248.6 338.7>
+packet at <422.7 332.1>
+packet at <459.2 323.8>
+packet at <88.3 443.4>
+packet at <376.8 355.2>
+packet at <235.1 379.2>
+packet at <102.7 368.7>
+packet at <88.3 428.2>
+packet at <310.3 368.7>
+packet at <310.3 429.2>
+packet at <152.3 355.2>
+packet at <310.3 419.6>
+packet at <356.3 355.2>
+packet at <329.7 368.7>
+packet at <119.1 368.7>
+packet at <335.8 355.2>
+packet at <121.6 355.2>
+packet at <350.2 368.7>
+packet at <310.3 410.0>
+packet at <310.3 400.4>
+packet at <310.3 390.8>
+packet at <315.3 355.2>
+packet at <149.8 368.7>
+packet at <370.7 368.7>
+packet at <102.7 429.2>
+packet at <310.3 381.2>
+packet at <88.3 348.4>
+packet at <102.7 419.6>
+packet at <102.7 312.8>
+packet at <88.3 298.2>
+packet at <102.7 410.0>
+packet at <102.7 283.1>
+packet at <102.7 400.4>
+packet at <102.7 253.4>
+packet at <102.7 390.8>
+packet at <88.3 229.7>
+packet at <102.7 381.2>
+packet at <102.7 191.0>
+packet at <88.3 168.1>
+packet at <102.7 133.2>
+packet at <88.3 111.0>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (14) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <264.1 335.1>
+packet at <322.8 324.5>
+packet at <372.7 324.5>
+packet at <459.2 326.4>
+packet at <422.7 324.5>
+packet at <472.7 324.5>
+packet at <249.7 339.8>
+packet at <175.4 355.2>
+packet at <310.3 368.7>
+packet at <44.0 341.6>
+packet at <251.9 341.9>
+packet at <228.0 391.0>
+packet at <254.1 344.1>
+packet at <369.2 355.2>
+packet at <102.7 419.6>
+packet at <102.7 368.7>
+packet at <102.7 410.0>
+packet at <316.9 368.7>
+packet at <144.6 355.2>
+packet at <310.3 429.2>
+packet at <348.7 355.2>
+packet at <337.4 368.7>
+packet at <126.7 368.7>
+packet at <310.3 419.6>
+packet at <328.2 355.2>
+packet at <113.9 355.2>
+packet at <357.9 368.7>
+packet at <310.3 410.0>
+packet at <157.5 368.7>
+packet at <378.4 368.7>
+packet at <310.3 400.4>
+packet at <310.3 390.8>
+packet at <310.3 381.2>
+packet at <102.7 251.9>
+packet at <102.7 400.4>
+packet at <102.7 241.6>
+packet at <102.7 390.8>
+packet at <102.7 381.2>
+packet at <102.7 157.0>
+packet at <88.3 133.3>
+packet at <88.3 117.5>
+packet at <102.7 97.7>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (15) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <102.7 368.7>
+packet at <459.2 318.6>
+packet at <382.0 355.2>
+packet at <258.6 329.6>
+packet at <167.7 355.2>
+packet at <310.3 368.7>
+packet at <233.4 396.5>
+packet at <361.5 355.2>
+packet at <102.7 390.8>
+packet at <103.7 368.7>
+packet at <324.6 368.7>
+packet at <136.9 355.2>
+packet at <341.0 355.2>
+packet at <345.1 368.7>
+packet at <134.4 368.7>
+packet at <310.3 429.2>
+packet at <310.3 419.6>
+packet at <320.5 355.2>
+packet at <106.2 355.2>
+packet at <365.6 368.7>
+packet at <165.2 368.7>
+packet at <102.7 381.2>
+packet at <386.1 368.7>
+packet at <295.9 355.9>
+packet at <310.3 410.0>
+packet at <310.3 400.4>
+packet at <310.3 310.4>
+packet at <310.3 390.8>
+packet at <310.3 381.2>
+packet at <295.9 276.8>
+packet at <295.9 273.8>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (16) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <409.2 326.3>
+packet at <322.8 324.6>
+packet at <372.7 324.6>
+packet at <459.2 326.3>
+packet at <422.7 324.6>
+packet at <310.3 368.7>
+packet at <55.4 333.9>
+packet at <240.6 384.6>
+packet at <102.7 381.2>
+packet at <250.5 340.5>
+packet at <422.7 329.6>
+packet at <102.7 368.7>
+packet at <374.3 355.2>
+packet at <160.0 355.2>
+packet at <311.8 368.7>
+packet at <353.8 355.2>
+packet at <332.3 368.7>
+packet at <129.3 355.2>
+packet at <310.3 429.2>
+packet at <333.3 355.2>
+packet at <352.8 368.7>
+packet at <310.3 419.6>
+packet at <310.3 410.0>
+packet at <312.8 355.2>
+packet at <373.3 368.7>
+packet at <310.3 400.4>
+packet at <310.3 390.8>
+packet at <310.3 381.2>
+packet at <310.3 164.5>
+packet at <295.9 130.9>
+packet at <310.3 85.4>
+packet at <295.9 88.4>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (17) ---
+half line from <465.9 325.5> to <465.9 317.8>
+half line from <465.9 317.8> to <465.9 325.5>
+half line from <416.0 325.5> to <416.0 317.8>
+half line from <416.0 317.8> to <416.0 325.5>
+half line from <465.9 325.5> to <465.9 333.1>
+half line from <465.9 333.1> to <465.9 325.5>
+half line from <366.0 325.5> to <366.0 317.8>
+half line from <366.0 317.8> to <366.0 325.5>
+half line from <316.0 325.5> to <316.0 317.8>
+half line from <316.0 317.8> to <316.0 325.5>
+half line from <416.0 325.5> to <416.0 333.1>
+half line from <416.0 333.1> to <416.0 325.5>
+half line from <310.3 362.0> to <387.1 362.0>
+half line from <387.1 362.0> to <310.3 362.0>
+half line from <252.9 333.4> to <261.1 341.6>
+half line from <261.1 341.6> to <252.9 333.4>
+half line from <237.2 362.0> to <252.6 362.0>
+half line from <252.6 362.0> to <237.2 362.0>
+half line from <228.8 382.3> to <239.7 393.2>
+half line from <239.7 393.2> to <228.8 382.3>
+half line from <102.7 362.0> to <179.6 362.0>
+half line from <179.6 362.0> to <102.7 362.0>
+half line from <45.4 333.4> to <53.5 341.6>
+half line from <53.5 341.6> to <45.4 333.4>
+half line from <48.1 387.8> to <53.5 382.3>
+half line from <53.5 382.3> to <48.1 387.8>
+half line from <477.5 325.5> to <454.4 325.5>
+circle node at <416.0 288.9> with <radius 19.2>
+with label (13) at center <416.0 288.9>
+circle node at <465.9 362.0> with <radius 19.2>
+with label (12) at center <465.9 362.0>
+circle node at <366.0 288.9> with <radius 19.2>
+with label (11) at center <366.0 288.9>
+circle node at <416.0 362.0> with <radius 19.2>
+with label (9) at center <416.0 362.0>
+circle node at <281.4 362.0> with <radius 19.2>
+with label (8) at center <281.4 362.0>
+circle node at <208.4 362.0> with <radius 19.2>
+with label (7) at center <208.4 362.0>
+circle node at <73.9 362.0> with <radius 19.2>
+with label (6) at center <73.9 362.0>
+circle node at <316.0 288.9> with <radius 19.2>
+with label (5) at center <316.0 288.9>
+circle node at <465.9 288.9> with <radius 19.2>
+with label (4) at center <465.9 288.9>
+circle node at <232.5 313.0> with <radius 19.2>
+with label (3) at center <232.5 313.0>
+circle node at <260.1 413.6> with <radius 19.2>
+with label (2) at center <260.1 413.6>
+circle node at <25.0 313.0> with <radius 19.2>
+with label (1) at center <25.0 313.0>
+circle node at <27.7 408.2> with <radius 19.2>
+with label (0) at center <27.7 408.2>
+packet at <265.8 336.8>
+packet at <102.7 368.7>
+packet at <322.8 325.5>
+packet at <372.7 325.5>
+packet at <459.2 325.5>
+packet at <422.7 325.5>
+packet at <472.7 325.5>
+packet at <310.3 368.7>
+packet at <167.6 355.2>
+packet at <371.7 355.2>
+packet at <314.3 368.7>
+packet at <103.7 368.7>
+packet at <351.2 355.2>
+packet at <334.8 368.7>
+packet at <310.3 410.0>
+packet at <330.7 355.2>
+packet at <134.5 368.7>
+packet at <355.3 368.7>
+packet at <375.8 368.7>
+packet at <165.2 368.7>
+packet at <310.3 400.4>
+packet at <310.3 390.8>
+packet at <310.3 381.2>
+packet at <252.6 354.3>
+packet at <325.6 369.6>
+packet at <310.3 369.6>
+agent at <x=494.8 y=279.3> with <width=0.0 height=19.2>
+agent at <x=203.7 y=303.4> with <width=0.0 height=19.2>
+agent at <x=261.4 y=303.4> with <width=0.0 height=19.2>
+packet at <179.6 354.3>
+packet at <223.4 387.8>
+packet at <247.5 338.9>
+packet at <371.8 354.3>
+
+--- snapshot (0) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+
+--- snapshot (1) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+packet at <360.9 354.8>
+
+--- snapshot (2) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+packet at <259.2 362.4>
+
+--- snapshot (3) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+packet at <30.1 362.4>
+
+--- snapshot (4) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+packet at <324.7 354.8>
+
+--- snapshot (5) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+packet at <109.4 354.8>
+
+--- snapshot (6) ---
+half line from <30.1 358.6> to <460.8 358.6>
+half line from <460.8 358.6> to <30.1 358.6>
+circle node at <476.9 358.6> with <radius 10.8>
+with label (1) at center <476.9 358.6>
+with label (Receiver) at center <476.9 380.1>
+circle node at <14.0 358.6> with <radius 10.8>
+with label (0) at center <14.0 358.6>
+with label (Sender) at center <14.0 380.1>
+packet at <80.1 362.4>
+
+--- snapshot (7) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+
+--- snapshot (8) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 353.3>
+packet at <367.3 342.3>
+packet at <56.3 275.0>
+packet at <150.3 353.3>
+packet at <26.6 353.3>
+packet at <165.5 353.3>
+packet at <392.0 353.3>
+packet at <64.7 353.3>
+packet at <407.2 353.3>
+packet at <180.8 353.3>
+packet at <394.2 315.4>
+packet at <85.9 304.6>
+packet at <218.8 353.3>
+packet at <102.7 353.3>
+packet at <460.5 353.3>
+packet at <234.0 353.3>
+packet at <431.9 277.7>
+packet at <264.5 353.3>
+packet at <279.7 353.3>
+packet at <294.9 353.3>
+packet at <333.0 353.3>
+
+--- snapshot (9) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 353.3>
+packet at <26.6 353.3>
+packet at <384.4 353.3>
+packet at <157.9 353.3>
+packet at <378.1 331.5>
+packet at <188.4 353.3>
+packet at <72.5 291.2>
+packet at <64.7 353.3>
+packet at <203.6 353.3>
+packet at <430.0 353.3>
+packet at <105.1 385.7>
+packet at <102.7 353.3>
+packet at <445.2 353.3>
+packet at <115.8 374.9>
+packet at <218.8 353.3>
+packet at <421.1 288.5>
+packet at <112.8 331.5>
+packet at <256.9 353.3>
+packet at <272.1 353.3>
+packet at <302.5 353.3>
+packet at <317.8 353.3>
+packet at <333.0 353.3>
+
+--- snapshot (10) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <369.1 353.3>
+packet at <150.3 353.3>
+packet at <367.3 342.3>
+packet at <26.6 353.3>
+packet at <150.3 378.6>
+packet at <150.3 373.8>
+packet at <150.3 369.0>
+packet at <59.0 277.7>
+packet at <150.3 364.3>
+packet at <157.9 353.3>
+packet at <399.6 353.3>
+packet at <64.7 353.3>
+packet at <150.3 359.5>
+packet at <388.8 320.8>
+packet at <188.4 353.3>
+packet at <218.8 353.3>
+packet at <445.2 353.3>
+packet at <99.4 318.1>
+packet at <102.7 353.3>
+packet at <234.0 353.3>
+packet at <460.5 353.3>
+packet at <431.9 277.7>
+packet at <249.3 353.3>
+packet at <279.7 353.3>
+packet at <294.9 353.3>
+packet at <325.4 353.3>
+
+--- snapshot (11) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 353.3>
+packet at <369.1 353.3>
+packet at <150.3 353.3>
+packet at <26.6 353.3>
+packet at <150.3 373.8>
+packet at <109.2 372.2>
+packet at <150.3 369.0>
+packet at <376.7 353.3>
+packet at <59.0 277.7>
+packet at <372.7 336.9>
+packet at <296.8 346.7>
+packet at <165.5 353.3>
+packet at <64.7 353.3>
+packet at <150.3 364.3>
+packet at <196.0 353.3>
+packet at <422.4 353.3>
+packet at <150.3 359.5>
+packet at <405.0 304.6>
+packet at <211.2 353.3>
+packet at <99.4 318.1>
+packet at <102.7 353.3>
+packet at <235.9 346.7>
+packet at <241.6 353.3>
+packet at <256.9 353.3>
+packet at <190.2 346.7>
+packet at <272.1 353.3>
+packet at <302.5 353.3>
+packet at <317.8 353.3>
+
+--- snapshot (12) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <369.1 353.3>
+packet at <150.3 378.6>
+packet at <61.0 429.7>
+packet at <367.3 342.3>
+packet at <26.6 353.3>
+packet at <150.3 373.8>
+packet at <150.3 353.3>
+packet at <173.2 353.3>
+packet at <78.2 412.6>
+packet at <150.3 369.0>
+packet at <93.0 388.3>
+packet at <399.6 353.3>
+packet at <72.5 291.2>
+packet at <64.7 353.3>
+packet at <88.9 401.9>
+packet at <150.3 364.3>
+packet at <388.8 320.8>
+packet at <188.4 353.3>
+packet at <218.8 353.3>
+packet at <445.2 353.3>
+packet at <102.7 353.3>
+packet at <150.3 359.5>
+packet at <234.0 353.3>
+packet at <121.2 369.6>
+packet at <460.5 353.3>
+packet at <112.8 331.5>
+packet at <431.9 277.7>
+packet at <249.3 353.3>
+packet at <279.7 353.3>
+packet at <294.9 353.3>
+packet at <325.4 353.3>
+
+--- snapshot (13) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 353.3>
+packet at <150.3 387.6>
+packet at <150.3 392.8>
+packet at <150.3 353.3>
+packet at <56.3 275.0>
+packet at <26.6 353.3>
+packet at <150.3 368.8>
+packet at <376.7 353.3>
+packet at <150.3 388.1>
+packet at <372.7 336.9>
+packet at <165.5 353.3>
+packet at <64.7 353.3>
+packet at <143.2 324.7>
+packet at <150.3 317.1>
+packet at <422.4 353.3>
+packet at <85.9 304.6>
+packet at <150.3 383.3>
+packet at <196.0 353.3>
+packet at <437.6 353.3>
+packet at <150.3 378.6>
+packet at <102.7 353.3>
+packet at <150.3 373.8>
+packet at <415.7 293.8>
+packet at <226.4 353.3>
+packet at <150.3 369.0>
+packet at <150.3 364.3>
+packet at <256.9 353.3>
+packet at <150.3 359.5>
+packet at <272.1 353.3>
+packet at <302.5 353.3>
+packet at <317.8 353.3>
+packet at <333.0 353.3>
+
+--- snapshot (14) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <369.1 353.3>
+packet at <150.3 353.3>
+packet at <367.3 342.3>
+packet at <30.4 353.3>
+packet at <150.3 364.1>
+packet at <150.3 392.8>
+packet at <61.7 280.4>
+packet at <161.7 353.3>
+packet at <386.8 386.7>
+packet at <68.5 353.3>
+packet at <150.3 388.1>
+packet at <192.2 353.3>
+packet at <408.3 408.2>
+packet at <150.3 383.3>
+packet at <222.6 353.3>
+packet at <106.6 353.3>
+packet at <102.1 320.8>
+packet at <150.3 378.6>
+packet at <237.8 353.3>
+packet at <150.3 373.8>
+packet at <150.3 369.0>
+packet at <268.3 353.3>
+packet at <298.7 353.3>
+packet at <150.3 364.3>
+packet at <314.0 353.3>
+packet at <150.3 359.5>
+
+--- snapshot (15) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <110.4 353.3>
+packet at <110.4 353.3>
+packet at <369.1 353.3>
+packet at <150.3 353.3>
+packet at <367.3 342.3>
+packet at <34.2 353.3>
+packet at <143.2 362.3>
+packet at <150.3 392.8>
+packet at <64.4 283.1>
+packet at <165.5 353.3>
+packet at <389.5 389.4>
+packet at <72.3 353.3>
+packet at <150.3 388.1>
+packet at <196.0 353.3>
+packet at <411.0 410.9>
+packet at <150.3 383.3>
+packet at <226.4 353.3>
+packet at <110.4 353.3>
+packet at <104.8 323.4>
+packet at <150.3 378.6>
+packet at <241.6 353.3>
+packet at <150.3 373.8>
+packet at <150.3 369.0>
+packet at <272.1 353.3>
+packet at <302.5 353.3>
+packet at <150.3 364.3>
+packet at <317.8 353.3>
+packet at <150.3 359.5>
+
+--- snapshot (16) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <336.8 353.3>
+packet at <106.6 353.3>
+packet at <321.6 353.3>
+packet at <418.4 291.2>
+packet at <441.4 353.3>
+packet at <150.3 359.5>
+packet at <306.3 353.3>
+packet at <426.2 353.3>
+packet at <150.3 364.3>
+packet at <88.6 307.3>
+packet at <68.5 353.3>
+packet at <275.9 353.3>
+packet at <150.3 369.0>
+packet at <260.7 353.3>
+packet at <375.4 334.2>
+packet at <380.5 353.3>
+packet at <30.4 353.3>
+packet at <150.3 373.8>
+packet at <56.3 275.0>
+packet at <230.2 353.3>
+packet at <150.3 378.6>
+packet at <199.8 353.3>
+packet at <150.3 383.3>
+packet at <169.3 353.3>
+packet at <150.3 388.1>
+packet at <154.1 353.3>
+packet at <150.3 353.3>
+packet at <150.3 392.8>
+
+--- snapshot (17) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 359.5>
+packet at <123.9 366.9>
+packet at <329.2 353.3>
+packet at <115.5 334.2>
+packet at <106.6 353.3>
+packet at <449.0 353.3>
+packet at <150.3 364.3>
+packet at <150.3 369.0>
+packet at <298.7 353.3>
+packet at <90.3 391.0>
+packet at <91.6 399.2>
+packet at <68.5 353.3>
+packet at <283.5 353.3>
+packet at <391.5 318.1>
+packet at <403.4 353.3>
+packet at <150.3 373.8>
+packet at <80.8 409.9>
+packet at <75.2 293.8>
+packet at <150.3 378.6>
+packet at <253.1 353.3>
+packet at <30.4 353.3>
+packet at <61.0 429.7>
+packet at <237.8 353.3>
+packet at <367.3 342.3>
+packet at <369.1 353.3>
+packet at <222.6 353.3>
+packet at <56.3 275.0>
+packet at <192.2 353.3>
+packet at <177.0 353.3>
+packet at <150.3 353.3>
+
+--- snapshot (18) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <369.1 353.3>
+packet at <150.3 388.1>
+packet at <61.0 429.7>
+packet at <367.3 342.3>
+packet at <26.6 353.3>
+packet at <150.3 383.3>
+packet at <150.3 353.3>
+packet at <173.2 353.3>
+packet at <78.2 412.6>
+packet at <150.3 378.6>
+packet at <93.0 388.3>
+packet at <399.6 353.3>
+packet at <72.5 291.2>
+packet at <64.7 353.3>
+packet at <88.9 401.9>
+packet at <150.3 373.8>
+packet at <388.8 320.8>
+packet at <188.4 353.3>
+packet at <218.8 353.3>
+packet at <445.2 353.3>
+packet at <102.7 353.3>
+packet at <150.3 369.0>
+packet at <150.3 364.3>
+packet at <431.9 277.7>
+packet at <460.5 353.3>
+packet at <150.3 359.5>
+packet at <121.2 369.6>
+packet at <325.4 353.3>
+packet at <112.8 331.5>
+packet at <294.9 353.3>
+packet at <279.7 353.3>
+packet at <249.3 353.3>
+packet at <234.0 353.3>
+
+--- snapshot (19) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 353.3>
+packet at <150.3 396.9>
+packet at <150.3 402.3>
+packet at <150.3 353.3>
+packet at <56.3 275.0>
+packet at <26.6 353.3>
+packet at <150.3 377.3>
+packet at <376.7 353.3>
+packet at <150.3 397.6>
+packet at <372.7 336.9>
+packet at <165.5 353.3>
+packet at <64.7 353.3>
+packet at <143.2 331.4>
+packet at <143.2 326.5>
+packet at <422.4 353.3>
+packet at <85.9 304.6>
+packet at <150.3 392.8>
+packet at <196.0 353.3>
+packet at <437.6 353.3>
+packet at <150.3 388.1>
+packet at <102.7 353.3>
+packet at <150.3 383.3>
+packet at <415.7 293.8>
+packet at <226.4 353.3>
+packet at <150.3 378.6>
+packet at <150.3 373.8>
+packet at <256.9 353.3>
+packet at <150.3 369.0>
+packet at <272.1 353.3>
+packet at <302.5 353.3>
+packet at <317.8 353.3>
+packet at <333.0 353.3>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
+
+--- snapshot (20) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <369.1 353.3>
+packet at <150.3 353.3>
+packet at <367.3 342.3>
+packet at <30.4 353.3>
+packet at <150.3 372.4>
+packet at <150.3 402.3>
+packet at <61.7 280.4>
+packet at <161.7 353.3>
+packet at <386.8 386.7>
+packet at <68.5 353.3>
+packet at <150.3 397.6>
+packet at <192.2 353.3>
+packet at <408.3 408.2>
+packet at <150.3 392.8>
+packet at <222.6 353.3>
+packet at <106.6 353.3>
+packet at <102.1 320.8>
+packet at <150.3 388.1>
+packet at <464.3 353.3>
+packet at <237.8 353.3>
+packet at <434.6 275.0>
+packet at <150.3 383.3>
+packet at <150.3 378.6>
+packet at <268.3 353.3>
+packet at <298.7 353.3>
+packet at <150.3 373.8>
+packet at <314.0 353.3>
+packet at <150.3 369.0>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
+
+--- snapshot (21) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <429.6 420.1>
+packet at <362.6 362.5>
+packet at <150.3 353.3>
+packet at <30.4 353.3>
+packet at <150.3 397.6>
+packet at <308.2 346.7>
+packet at <169.3 353.3>
+packet at <381.4 381.3>
+packet at <150.3 392.8>
+packet at <397.3 387.8>
+packet at <68.5 353.3>
+packet at <75.2 293.8>
+packet at <150.3 388.1>
+packet at <277.7 346.7>
+packet at <184.6 353.3>
+packet at <426.2 353.3>
+packet at <215.0 353.3>
+packet at <407.7 301.9>
+packet at <230.2 353.3>
+packet at <106.6 353.3>
+packet at <143.2 277.6>
+packet at <150.3 383.3>
+packet at <115.5 334.2>
+packet at <245.5 353.3>
+packet at <150.3 378.6>
+packet at <275.9 353.3>
+packet at <150.3 373.8>
+packet at <291.1 353.3>
+packet at <150.3 369.0>
+packet at <321.6 353.3>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
+
+--- snapshot (22) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 402.3>
+packet at <372.9 353.3>
+packet at <30.4 353.3>
+packet at <56.3 275.0>
+packet at <150.3 397.6>
+packet at <315.8 346.7>
+packet at <150.3 353.3>
+packet at <413.5 403.9>
+packet at <101.1 380.2>
+packet at <370.0 339.6>
+packet at <177.0 353.3>
+packet at <68.5 353.3>
+packet at <392.0 382.4>
+packet at <150.3 392.8>
+packet at <79.6 401.8>
+packet at <418.6 353.3>
+packet at <150.3 388.1>
+packet at <192.2 353.3>
+packet at <88.6 307.3>
+packet at <433.8 353.3>
+packet at <222.6 353.3>
+packet at <370.4 360.9>
+packet at <413.1 296.5>
+packet at <106.6 353.3>
+packet at <150.3 383.3>
+packet at <239.7 346.7>
+packet at <237.8 353.3>
+packet at <150.3 378.6>
+packet at <268.3 353.3>
+packet at <150.3 373.8>
+packet at <194.0 346.7>
+packet at <283.5 353.3>
+packet at <150.3 369.0>
+packet at <314.0 353.3>
+packet at <329.2 353.3>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
+
+--- snapshot (23) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <150.3 353.3>
+packet at <61.0 429.7>
+packet at <150.3 392.8>
+packet at <154.1 353.3>
+packet at <106.5 374.9>
+packet at <380.5 353.3>
+packet at <150.3 388.1>
+packet at <61.7 280.4>
+packet at <375.4 334.2>
+packet at <150.3 383.3>
+packet at <169.3 353.3>
+packet at <86.2 404.5>
+packet at <199.8 353.3>
+packet at <426.2 353.3>
+packet at <215.0 353.3>
+packet at <150.3 378.6>
+packet at <407.7 301.9>
+packet at <102.1 320.8>
+packet at <150.3 373.8>
+packet at <230.2 353.3>
+packet at <216.8 346.7>
+packet at <260.7 353.3>
+packet at <150.3 369.0>
+packet at <186.4 346.7>
+packet at <275.9 353.3>
+packet at <306.3 353.3>
+packet at <155.9 346.7>
+packet at <321.6 353.3>
+packet at <336.8 353.3>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
+
+--- snapshot (24) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <369.1 353.3>
+packet at <150.3 388.1>
+packet at <150.3 353.3>
+packet at <367.3 342.3>
+packet at <70.1 420.7>
+packet at <161.7 353.3>
+packet at <150.3 383.3>
+packet at <403.4 353.3>
+packet at <75.2 293.8>
+packet at <91.6 399.2>
+packet at <418.6 353.3>
+packet at <192.2 353.3>
+packet at <402.3 307.3>
+packet at <150.3 378.6>
+packet at <113.1 377.6>
+packet at <222.6 353.3>
+packet at <150.3 373.8>
+packet at <464.3 353.3>
+packet at <115.5 334.2>
+packet at <434.6 275.0>
+packet at <150.3 369.0>
+packet at <253.1 353.3>
+packet at <283.5 353.3>
+packet at <298.7 353.3>
+packet at <314.0 353.3>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
+
+--- snapshot (25) ---
+half line from <365.0 339.9> to <432.2 272.7>
+half line from <432.2 272.7> to <365.0 339.9>
+half line from <369.1 350.0> to <464.3 350.0>
+half line from <464.3 350.0> to <369.1 350.0>
+half line from <365.0 360.1> to <432.2 427.4>
+half line from <432.2 427.4> to <365.0 360.1>
+half line from <150.3 350.0> to <340.6 350.0>
+half line from <340.6 350.0> to <150.3 350.0>
+half line from <58.7 272.7> to <126.0 339.9>
+half line from <126.0 339.9> to <58.7 272.7>
+half line from <26.6 350.0> to <121.8 350.0>
+half line from <121.8 350.0> to <26.6 350.0>
+half line from <58.7 427.4> to <126.0 360.1>
+half line from <126.0 360.1> to <58.7 427.4>
+circle node at <136.0 350.0> with <radius 9.5>
+with label (3) at center <136.0 350.0>
+circle node at <442.3 262.6> with <radius 9.5>
+with label (7) at center <442.3 262.6>
+with label (CBR-2) at center <442.3 281.6>
+circle node at <48.6 262.6> with <radius 9.5>
+with label (2) at center <48.6 262.6>
+with label (CBR-2) at center <48.6 281.6>
+circle node at <478.5 350.0> with <radius 9.5>
+with label (6) at center <478.5 350.0>
+with label (CBR-1) at center <478.5 369.0>
+circle node at <12.4 350.0> with <radius 9.5>
+with label (1) at center <12.4 350.0>
+with label (CBR-1) at center <12.4 369.0>
+circle node at <442.3 437.5> with <radius 9.5>
+with label (5) at center <442.3 437.5>
+with label (SLIDING) at center <442.3 456.5>
+circle node at <48.6 437.5> with <radius 9.5>
+with label (0) at center <48.6 437.5>
+with label (SLIDING) at center <48.6 456.5>
+circle node at <354.9 350.0> with <radius 9.5>
+with label (4) at center <354.9 350.0>
+packet at <362.6 362.5>
+packet at <150.3 353.3>
+packet at <375.4 334.2>
+packet at <169.3 353.3>
+packet at <150.3 388.1>
+packet at <403.0 402.8>
+packet at <199.8 353.3>
+packet at <418.4 291.2>
+packet at <150.3 383.3>
+packet at <230.2 353.3>
+packet at <150.3 378.6>
+packet at <150.3 373.8>
+packet at <260.7 353.3>
+packet at <150.3 369.0>
+packet at <291.1 353.3>
+packet at <321.6 353.3>
+packet at <150.3 364.3>
+packet at <150.3 359.5>
