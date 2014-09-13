@@ -32,4 +32,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/usr/src/apps/ns-allinone-2.35/lib'
+libdir='/home/ali/Downloads/ns2/lib'

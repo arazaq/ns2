@@ -38,7 +38,7 @@ INST_OINC=	/usr/local/include
 
 INCLUDES = \
 	-I. \
-	-I/usr/src/apps/ns-allinone-2.35/include -I/usr/src/apps/ns-allinone-2.35/include -I/usr/src/apps/ns-allinone-2.35/include \
+	-I/home/ali/Downloads/ns2/include -I/home/ali/Downloads/ns2/include -I/home/ali/Downloads/ns2/include \
 	 \
 	-I${prefix}/include \
 	
@@ -46,8 +46,8 @@ INCLUDES = \
 DEFINES = \
 	 -DNDEBUG -DUSE_SHM -DHAVE_UNISTD_H=1
 
-LIB =	-L/usr/src/apps/ns-allinone-2.35/lib -ltk8.5 -L/usr/src/apps/ns-allinone-2.35/lib -ltcl8.5 \
-	-lX11  -lnsl -ldl -lm
+LIB =	-L/home/ali/Downloads/ns2/lib -ltk8.5 -L/home/ali/Downloads/ns2/lib -ltcl8.5 \
+	-lXext -lX11  -lnsl -ldl -lm
 
 OTCLLIB= -L. -lotcl
 

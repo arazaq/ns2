@@ -99,13 +99,13 @@ DIST_ARCHIVES = $(distdir).tar.gz
 GZIP_ENV = --best
 distuninstallcheck_listfiles = find . -type f -print
 distcleancheck_listfiles = find . -type f -print
-ACLOCAL = ${SHELL} /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/missing --run aclocal-1.10
-AMTAR = ${SHELL} /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/missing --run tar
+ACLOCAL = ${SHELL} /home/ali/Downloads/ns2/dei80211mr-1.1.4/missing --run aclocal-1.10
+AMTAR = ${SHELL} /home/ali/Downloads/ns2/dei80211mr-1.1.4/missing --run tar
 AR = ar
 AS = as
-AUTOCONF = ${SHELL} /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/missing --run autoconf
-AUTOHEADER = ${SHELL} /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/missing --run autoheader
-AUTOMAKE = ${SHELL} /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/missing --run automake-1.10
+AUTOCONF = ${SHELL} /home/ali/Downloads/ns2/dei80211mr-1.1.4/missing --run autoconf
+AUTOHEADER = ${SHELL} /home/ali/Downloads/ns2/dei80211mr-1.1.4/missing --run autoheader
+AUTOMAKE = ${SHELL} /home/ali/Downloads/ns2/dei80211mr-1.1.4/missing --run automake-1.10
 AWK = gawk
 CC = gcc
 CCDEPMODE = depmode=gcc3
@@ -140,10 +140,10 @@ LIBS =
 LIBTOOL = $(SHELL) $(top_builddir)/libtool
 LN_S = ln -s
 LTLIBOBJS = 
-MAKEINFO = ${SHELL} /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/missing --run makeinfo
+MAKEINFO = ${SHELL} /home/ali/Downloads/ns2/dei80211mr-1.1.4/missing --run makeinfo
 MKDIR_P = /usr/bin/mkdir -p
-NS_ALLINONE_DISTCHECK_CONFIGURE_FLAGS = --with-ns-allinone=/usr/src/apps/ns-allinone-2.35
-NS_CPPFLAGS = -I/usr/src/apps/ns-allinone-2.35/include -I/usr/src/apps/ns-allinone-2.35/ns-2.35 -I/usr/src/apps/ns-allinone-2.35/tclcl-1.20 -I/usr/src/apps/ns-allinone-2.35/otcl-1.14  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/mac  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/propagation  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/mobile  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/pcap  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/tcp  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/sctp  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/common  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/link  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/queue  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/trace  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/adc  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/apps  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/routing  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/tools  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/classifier  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/mcast  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/diffusion3/lib  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/diffusion3/lib/main  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/diffusion3/lib/nr  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/diffusion3/ns  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/diffusion3/filter_core  -I/usr/src/apps/ns-allinone-2.35/ns-2.35/asim
+NS_ALLINONE_DISTCHECK_CONFIGURE_FLAGS = --with-ns-allinone=/home/ali/Downloads/ns2
+NS_CPPFLAGS = -I/home/ali/Downloads/ns2/include -I/home/ali/Downloads/ns2/ns-2.35 -I/home/ali/Downloads/ns2/tclcl-1.20 -I/home/ali/Downloads/ns2/otcl-1.14  -I/home/ali/Downloads/ns2/ns-2.35/mac  -I/home/ali/Downloads/ns2/ns-2.35/propagation  -I/home/ali/Downloads/ns2/ns-2.35/mobile  -I/home/ali/Downloads/ns2/ns-2.35/pcap  -I/home/ali/Downloads/ns2/ns-2.35/tcp  -I/home/ali/Downloads/ns2/ns-2.35/sctp  -I/home/ali/Downloads/ns2/ns-2.35/common  -I/home/ali/Downloads/ns2/ns-2.35/link  -I/home/ali/Downloads/ns2/ns-2.35/queue  -I/home/ali/Downloads/ns2/ns-2.35/trace  -I/home/ali/Downloads/ns2/ns-2.35/adc  -I/home/ali/Downloads/ns2/ns-2.35/apps  -I/home/ali/Downloads/ns2/ns-2.35/routing  -I/home/ali/Downloads/ns2/ns-2.35/tools  -I/home/ali/Downloads/ns2/ns-2.35/classifier  -I/home/ali/Downloads/ns2/ns-2.35/mcast  -I/home/ali/Downloads/ns2/ns-2.35/diffusion3/lib  -I/home/ali/Downloads/ns2/ns-2.35/diffusion3/lib/main  -I/home/ali/Downloads/ns2/ns-2.35/diffusion3/lib/nr  -I/home/ali/Downloads/ns2/ns-2.35/diffusion3/ns  -I/home/ali/Downloads/ns2/ns-2.35/diffusion3/filter_core  -I/home/ali/Downloads/ns2/ns-2.35/asim
 NS_LDFLAGS = 
 NS_LIBADD = 
 OBJDUMP = objdump
@@ -160,12 +160,12 @@ SED = /usr/bin/sed
 SET_MAKE = 
 SHELL = /bin/sh
 STRIP = strip
-TCL2CPP = /usr/src/apps/ns-allinone-2.35/tclcl-1.20/tcl2c++
+TCL2CPP = /home/ali/Downloads/ns2/tclcl-1.20/tcl2c++
 VERSION = 1.1.4
-abs_builddir = /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4
-abs_srcdir = /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4
-abs_top_builddir = /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4
-abs_top_srcdir = /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4
+abs_builddir = /home/ali/Downloads/ns2/dei80211mr-1.1.4
+abs_srcdir = /home/ali/Downloads/ns2/dei80211mr-1.1.4
+abs_top_builddir = /home/ali/Downloads/ns2/dei80211mr-1.1.4
+abs_top_srcdir = /home/ali/Downloads/ns2/dei80211mr-1.1.4
 ac_ct_CC = gcc
 ac_ct_CXX = g++
 ac_ct_F77 = 
@@ -194,7 +194,7 @@ host_vendor = pc
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = $(SHELL) /usr/src/apps/ns-allinone-2.35/dei80211mr-1.1.4/install-sh
+install_sh = $(SHELL) /home/ali/Downloads/ns2/dei80211mr-1.1.4/install-sh
 libdir = ${exec_prefix}/lib
 libexecdir = ${exec_prefix}/libexec
 localedir = ${datarootdir}/locale
@@ -203,7 +203,7 @@ mandir = ${datarootdir}/man
 mkdir_p = /usr/bin/mkdir -p
 oldincludedir = /usr/include
 pdfdir = ${docdir}
-prefix = /usr/src/apps/ns-allinone-2.35
+prefix = /home/ali/Downloads/ns2
 program_transform_name = s,x,x,
 psdir = ${docdir}
 sbindir = ${exec_prefix}/sbin
@@ -216,7 +216,7 @@ top_srcdir = .
 SUBDIRS = m4 samples src 
 ACLOCAL_AMFLAGS = -I m4
 EXTRA_DIST = autogen.sh 
-DISTCHECK_CONFIGURE_FLAGS = --with-ns-allinone=/usr/src/apps/ns-allinone-2.35 
+DISTCHECK_CONFIGURE_FLAGS = --with-ns-allinone=/home/ali/Downloads/ns2 
 all: all-recursive
 
 .SUFFIXES:

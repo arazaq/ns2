@@ -328,7 +328,7 @@ link_all_deplibs=unknown
 sys_lib_search_path_spec="/usr/lib /lib /usr/local/lib"
 
 # Run-time system search path for libraries
-sys_lib_dlsearch_path_spec="/usr/lib /lib /usr/lib/dyninst /usr/lib/iscsi /usr/lib/llvm /usr/lib/tracker-0.16 /usr/lib/xulrunner "
+sys_lib_dlsearch_path_spec="/usr/lib /lib /usr/lib/R/lib /usr/lib/atlas /usr/lib/iscsi /usr/lib/llvm /usr/lib/mysql /usr/lib/qt-3.3/lib /usr/lib/tracker-0.16 /usr/lib/xulrunner "
 
 # Fix the shell variable $srcfile for the compiler.
 fix_srcfile_path=""
@@ -7464,11 +7464,11 @@ striplib="strip --strip-unneeded"
 
 # Dependencies to place before the objects being linked to create a
 # shared library.
-predep_objects="/usr/lib/gcc/i686-redhat-linux/4.8.2/../../../crti.o /usr/lib/gcc/i686-redhat-linux/4.8.2/crtbeginS.o"
+predep_objects="/usr/lib/gcc/i686-redhat-linux/4.8.3/../../../crti.o /usr/lib/gcc/i686-redhat-linux/4.8.3/crtbeginS.o"
 
 # Dependencies to place after the objects being linked to create a
 # shared library.
-postdep_objects="/usr/lib/gcc/i686-redhat-linux/4.8.2/crtendS.o /usr/lib/gcc/i686-redhat-linux/4.8.2/../../../crtn.o"
+postdep_objects="/usr/lib/gcc/i686-redhat-linux/4.8.3/crtendS.o /usr/lib/gcc/i686-redhat-linux/4.8.3/../../../crtn.o"
 
 # Dependencies to place before the objects being linked to create a
 # shared library.
@@ -7480,7 +7480,7 @@ postdeps="-lstdc++ -lm -lgcc_s -lc -lgcc_s"
 
 # The library search path used internally by the compiler when linking
 # a shared library.
-compiler_lib_search_path="-L/usr/lib/gcc/i686-redhat-linux/4.8.2 -L/usr/lib/gcc/i686-redhat-linux/4.8.2/../../.."
+compiler_lib_search_path="-L/usr/lib/gcc/i686-redhat-linux/4.8.3 -L/usr/lib/gcc/i686-redhat-linux/4.8.3/../../.."
 
 # Method to check whether dependent libraries are shared objects.
 deplibs_check_method="pass_all"
@@ -7563,7 +7563,7 @@ link_all_deplibs=unknown
 sys_lib_search_path_spec="/usr/lib /lib /usr/local/lib"
 
 # Run-time system search path for libraries
-sys_lib_dlsearch_path_spec="/usr/lib /lib /usr/lib/dyninst /usr/lib/iscsi /usr/lib/llvm /usr/lib/tracker-0.16 /usr/lib/xulrunner "
+sys_lib_dlsearch_path_spec="/usr/lib /lib /usr/lib/R/lib /usr/lib/atlas /usr/lib/iscsi /usr/lib/llvm /usr/lib/mysql /usr/lib/qt-3.3/lib /usr/lib/tracker-0.16 /usr/lib/xulrunner "
 
 # Fix the shell variable $srcfile for the compiler.
 fix_srcfile_path=""

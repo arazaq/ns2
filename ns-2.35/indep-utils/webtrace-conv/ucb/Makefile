@@ -27,10 +27,10 @@ BINDEST = /usr/local/bin
 CC = g++
 MKDEP	= ../../../conf/mkdep
 
-INCLUDE = -I. -I/home/gcu/workspace/ns-allinone-2.35/tclcl-1.20 -I/home/gcu/workspace/ns-allinone-2.35/otcl -I/home/gcu/workspace/ns-allinone-2.35/include -I/home/gcu/workspace/ns-allinone-2.35/include -I/home/gcu/workspace/ns-allinone-2.35/include -I/usr/include/pcap
+INCLUDE = -I. -I/home/ali/Downloads/ns2/tclcl-1.20 -I/home/ali/Downloads/ns2/otcl -I/home/ali/Downloads/ns2/include -I/home/ali/Downloads/ns2/include -I/home/ali/Downloads/ns2/include -I/usr/include/pcap
 CFLAGS = -O2 -Wall -Wno-write-strings -DCPP_NAMESPACE=std
 LDFLAGS = 
-LIBS = -L/home/gcu/workspace/ns-allinone-2.35/lib -ltcl8.5  -lnsl -ldl -lm 
+LIBS = -L/home/ali/Downloads/ns2/lib -ltcl8.5  -lnsl -lpcap -ldl -lm 
 INSTALL = /usr/bin/install -c
 
 SRC = tr-stat.cc logparse.cc utils.cc
