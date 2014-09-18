@@ -1,0 +1,21 @@
+Start Program NS and GL via NS agent : 
+Fri 19 Sep 2014 00:19:53 BST-00:19:53,078645099
+
+
+warning: no class variable Agent/AgentGLTcl::tsp_var1_otcl
+
+	see tcl-object.tcl in tclcl for info about this warning.
+
+warning: no class variable Agent/AgentGLTcl::tsp_var2_otcl
+
+Call to execute NS
+
+NS time to execute in milliseconds : '3'
+Call to execute GL
+WARNING  [INIT] : house_e:0 has no parent triplex_meter defined; using static voltages
+
+GL time to execute in milliseconds : '992'
+
+End Program : 
+Fri 19 Sep 2014 00:19:54 BST-00:19:54,222123695
+Time in seconds: 1.146

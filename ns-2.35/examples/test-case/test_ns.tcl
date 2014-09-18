@@ -10,7 +10,7 @@ $ns color 1 Blue
 $ns color 2 Red
 
 #Open the NAM trace file
-set nf [open /home/ali/Documents/home_gcu/gridlab-examples/test-case/out-ns.nam w]
+set nf [open /home/ali/Downloads/ns2/ns-2.35/examples/test-case/out-ns.nam w]
 $ns namtrace-all $nf
 
 #Define a 'finish' procedure

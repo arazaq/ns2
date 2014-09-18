@@ -10,10 +10,10 @@ $myagent set tsp_str_otcl "This is a string"
 
 # Give a command to MyAgent
 puts stdout "call to execute NS"
-$myagent "call-execute-ns" "/home/ali/Downloads/ns2/ns-2.35/examples/test-case/test_ns.tcl"
+$myagent "call-execute-ns" "/home/ali/Documents/home_gcu/gridlab-examples/test-case/test_ns.tcl"
 
 puts stdout "call to execute GL"
-$myagent "call-execute-gl" "/home/ali/Downloads/ns2/ns-2.35/examples/test-case/test_gl.glm"
+$myagent "call-execute-gl" "/home/ali/Documents/home_gcu/gridlab-examples/test-case/test_gl.glm"
 #$myagent call-execute-gl somehintmore
 
 #puts stdout "Calling Add"
