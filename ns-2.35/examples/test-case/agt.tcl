@@ -1,10 +1,10 @@
 
-set myagent [new Agent/AgentGLTcl]
+set glagent [new Agent/AgentGLTcl]
 
-# Give a command to MyAgent
+# Pass command to Agent
 puts stdout "Call to execute NS"
-$myagent "call-execute-ns" "/home/ali/Downloads/ns2/ns-2.35/examples/test-case/test_ns.tcl"
+$glagent "call-execute-ns" "/home/ali/Downloads/ns2/ns-2.35/examples/test-case/test_ns.tcl"
 
 puts stdout "Call to execute GL"
-$myagent "call-execute-gl" "/home/ali/Downloads/ns2/ns-2.35/examples/test-case/test_gl.glm"
+$glagent "call-execute-gl" "/home/ali/Downloads/ns2/ns-2.35/examples/test-case/test_gl.glm"
 

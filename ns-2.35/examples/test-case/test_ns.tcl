@@ -1,6 +1,6 @@
 #Tracefile set debug_ 0
-#set myagent [new Agent/AgentGLTcl]
-#$myagent call-execute-gl
+#set glagent [new Agent/AgentGLTcl]
+#$glagent call-execute-gl
 
 #Create a simulator object
 set ns [new Simulator]

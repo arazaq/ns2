@@ -15,6 +15,26 @@ puts stdout "Calling Minus"
 $myagent call-math-opt-minus
 
 
+To run the script:  date +%s%3N; echo "START";./ns examples/test01.tcl ; echo "END"; date +%s%3N
+
+echo $(($(date +%s%N)/1000000)); echo "START";./ns examples/test01.tcl ; echo "END"; echo $(($(date +%s%N)/1000000))
+
+date +%s%3N; echo "START"; /home/ali/Downloads/ns2/ns-2.35/ns test_ns.tcl echo "END"; date +%s%3N
+
+ clear; echo -e "Start Program : " ; date +%s%3N; echo -e "\n"; /home/ali/Downloads/ns2/ns-2.35/ns agt.tcl ; echo -e "\nEnd Program : " ; date +%s%3N
+
+[root@localhost test-case]#date +%c-%H:%M:%S:%N
+Thu 18 Sep 2014 02:36:25 BST-02:36:25:128011112
+[root@localhost test-case]#
+
+echo -e "Start Program : " ; date +%c-%H:%M:%S,%3N; echo -e "\n"; /home/ali/Downloads/ns2/ns-2.35/ns agt.tcl ; echo -e "\nEnd Program : " ;date +%c-%H:%M:%S,%3N
+
+NS only:
+echo -e "Start Program : " ; date +%c-%H:%M:%S,%3N; echo -e "\n"; /home/ali/Downloads/ns2/ns-2.35/ns test_ns.tcl ; echo -e "\nEnd Program : " ;date +%c-%H:%M:%S,%3N
+GL only:
+echo -e "Start Program : " ; date +%c-%H:%M:%S,%3N; echo -e "\n"; /home/ali/Downloads/ns2/ns-2.35/ns test_gl.glm ; echo -e "\nEnd Program : " ;date +%c-%H:%M:%S,%3N
+
+
  */
 
 #include <stdio.h>
