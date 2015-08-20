@@ -1,0 +1,25 @@
+//http://gridlabd.me.uvic.ca/wiki/index.php/Beginner's_Guide_to_GridLAB-D
+//For example, the following will collect the power consumption for the whole house given the power factor of 0.98:
+//gridlabd -D debug=1 datachange.glm
+
+clock {
+  timezone EST+5EDT;
+  starttime '2014-01-01 00:00:00';
+  stoptime '2014-01-01 23:00:00';
+}
+module residential {
+  implicit_enduses LIGHTS|PLUGS|REFRIGERATOR|CLOTHESWASHER|DRYER;
+}
+module tape;
+object house {
+  panel.power_factor 0.98;
+  object recorder {
+  
+  property panel.power, panel.constant_current, panel.constant_power;
+
+    file /home/ali/Downloads/ns2/ns-2.35/examples/test-case/out-gl.csv;
+  };
+  object waterheater {
+  };
+}
+
