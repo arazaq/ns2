@@ -17,7 +17,7 @@ object house {
   
   property panel.power, panel.constant_current, panel.constant_power;
 
-    file /home/ali/Downloads/ns2/ns-2.35/examples/test-case/out-gl.csv;
+    file /home/Downloads/ns2/ns-2.35/examples/test-case/out-gl.csv;
   };
   object waterheater {
   };
