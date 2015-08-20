@@ -1,3 +1,6 @@
+
+1) Setup ns2 with Eclipse IDE:
+
 Follow below link to debug ns2 with Eclipse C++ IDE. I have followed these links to setup in fedora 20 but it should be same for the rest.
 
 http://erl1.wordpress.com/2012/01/11/using-ns-2-with-eclipse/
@@ -9,11 +12,15 @@ This is the example to add new agent in ns2. In order to test the new agent one 
 http://www.nsnam.com/2011/12/creating-new-agent-in-network-simulator.html
 
 
-Quick ns2 tutorials:
+2) Quick ns2 tutorials:
 
 http://www.isi.edu/nsnam/ns/tutorial/
 http://www.isi.edu/nsnam/ns/doc/node2.html
 http://nile.wpi.edu/NS/
 
-Basic Ns2 Tutorial with examples: http://csis.bits-pilani.ac.in/faculty/murali/resources/tutorials/ns2.htm
+3) ns2 Basics:
+
+Basic ns2 Tutorial with examples.
+
+http://csis.bits-pilani.ac.in/faculty/murali/resources/tutorials/ns2.htm
 
