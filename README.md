@@ -41,4 +41,5 @@ visible from TCL scope. In order to run GridLab-D simulator, the user should cre
 method 'callexecute-gl' within TCL script.
 
 
+This attempt should be considered as a proof of concept rather a complete solution.
 
