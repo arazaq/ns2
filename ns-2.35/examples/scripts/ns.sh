@@ -14,8 +14,8 @@ Start=`date +%s.%N`
 #echo -e "Start Program NS : " ; 
 date +%c-%H:%M:%S,%N; 
 echo -e "\n"; 
-/home/ali/apps/ns2-master/ns-2.35/ns /home/ali/apps/ns2-master/ns-2.35/examples/test01/01lantest_example.tcl ; 
-#/home/ali/apps/ns2-master/ns-2.35/ns /home/ali/apps/ns2/ns-allinone-2.35/ns-2.35/tcl/ex/lantest_example.tcl ;
+/home/apps/ns2-master/ns-2.35/ns /home/apps/ns2-master/ns-2.35/examples/test01/01lantest_example.tcl ; 
+#/home/apps/ns2-master/ns-2.35/ns /home/apps/ns2/ns-allinone-2.35/ns-2.35/tcl/ex/lantest_example.tcl ;
 #echo -e "\nEnd Program : " ;
 date +%c-%H:%M:%S,%N
 End=`date +%s.%N`
