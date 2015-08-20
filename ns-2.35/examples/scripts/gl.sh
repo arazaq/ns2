@@ -12,7 +12,7 @@ Start=`date +%s.%N`
 #echo -e "Start Program Gridlab: " ; 
 date +%c-%H:%M:%S,%N; 
 echo -e "\n"; 
-gridlabd /home/ali/apps/ns2-master/ns-2.35/examples/test01/02_test_PMSG_windturb_GCU.glm ; 
+gridlabd /home/apps/ns2-master/ns-2.35/examples/test01/02_test_PMSG_windturb_GCU.glm ; 
 #echo -e "\nEnd Program : " ;
 date +%c-%H:%M:%S,%N
 
